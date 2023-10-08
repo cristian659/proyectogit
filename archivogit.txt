@@ -1,2 +1,2 @@
 archivo a agregar en el staging area
-modificacion en el archivo de la rama primerrama 
+mensaje de prueba para hacer el merge con la otra rama 
